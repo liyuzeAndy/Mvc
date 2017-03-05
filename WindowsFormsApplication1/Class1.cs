@@ -9,6 +9,6 @@ namespace WindowsFormsApplication1
     class Class2
     {
        //mmm
-        、、、
+        、、、llll
     }
 }
