@@ -8,6 +8,7 @@ namespace WebApplication5
     {
         public void Configuration(IAppBuilder app)
         {
+            //adwdaw
             ConfigureAuth(app);
         }
     }
